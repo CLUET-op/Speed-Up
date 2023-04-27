@@ -1,4 +1,4 @@
-displayName: "[Green]Speed Up"
+displayName: "Speed Up"
 
 #the internal name of your mod
 
@@ -6,7 +6,7 @@ name: "Speed-Up"
 
 #your name
 
-author: "[Blue]CLUET"
+author: [Blue]"CLUET"
 
 
 #the mod description as seen in the mod dialog
