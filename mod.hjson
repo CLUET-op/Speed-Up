@@ -1,0 +1,32 @@
+displayName: "[Green]Speed Up"
+
+#the internal name of your mod
+
+name: "Speed-Up"
+
+#your name
+
+author: "[Blue]CLUET"
+
+
+#the mod description as seen in the mod dialog
+
+description: "This mod lets you speed up Mindustry upto 16x without breaking the game and a small UI to not block the menu Mobile Players. \n For any suggestions GitHub is open."
+
+#short description displayed under the title
+
+subtitle: "No menu being blocked for Mobile Players."
+
+#the mod version
+
+version: 1.0
+
+#the minimum game build required to run this mod
+
+minGameVersion: 141.2
+
+#this is a java mod
+
+java: false
+
+repo: CLUET-op/Speed-Up
